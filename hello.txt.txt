@@ -2,4 +2,6 @@ Esto es una prueba
 
 Probamos el comando git status y add.
 
-una serie de comandos más
+Una serie de comandos más
+
+Aprendimos sobre tracked, staged, unstaged y untracked.
