@@ -1,5 +1,5 @@
-Hola mundo
-
-Esto es una prueba  
+Esto es una prueba 
 
 Probamos el comando git status y add.
+
+una serie de comandos más
