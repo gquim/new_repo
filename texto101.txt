@@ -1,0 +1,7 @@
+Una serie de comandos más
+
+Aprendimos sobre tracked, staged, unstaged y untracked.
+
+Hemos creado una nueve rama llamada nueva_rama.
+
+Comprobar si no se  
